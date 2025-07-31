@@ -1,10 +1,10 @@
 # 🔐 Python Password Manager
 
-A simple password manager using Python, Tkinter GUI, and encrypted password storage.
+A simple password manager using Python,  and encrypted password storage.
 
 ## ✅ Features
 - Master password protection
-- Encrypted password saving with Fernet (AES)
+- Encrypted password saving with Fernet 
 - Add, search, update entries
 - Export to CSV
 - Simple GUI interface
